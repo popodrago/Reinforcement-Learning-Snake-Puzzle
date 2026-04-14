@@ -17,7 +17,7 @@ Language: Python
 Libraries: Scikit-Learn, NumPy, Pandas
 
 Getting Started
-Clone the repo: git clone https://github.com/[username]/reinforcement.git
+Clone the repo: git clone https://github.com/popodrago/Reinforcement-Learning-Snake-Puzzle.git
 
 Install dependencies: pip install -r requirements.txt
 
