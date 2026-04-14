@@ -12,7 +12,7 @@ Robust Pipelines: Scikit-Learn pipelines integrated with K-Fold cross-validation
 Classification Optimization: Refined strategies for complex classification tasks using weighted ensemble methods.
 
 Technical Stack
-Language: Python
+Language: Python, typescript
 Libraries: Scikit-Learn, NumPy, Pandas
 
 Getting Started
