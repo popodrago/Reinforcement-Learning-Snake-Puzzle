@@ -13,7 +13,6 @@ Classification Optimization: Refined strategies for complex classification tasks
 
 Technical Stack
 Language: Python
-
 Libraries: Scikit-Learn, NumPy, Pandas
 
 Getting Started
