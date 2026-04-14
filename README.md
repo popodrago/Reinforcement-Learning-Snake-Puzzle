@@ -17,7 +17,3 @@ Libraries: Scikit-Learn, NumPy, Pandas
 
 Getting Started
 Clone the repo: git clone https://github.com/popodrago/Reinforcement-Learning-Snake-Puzzle.git
-
-Install dependencies: pip install -r requirements.txt
-
-Run training: Execute the notebooks or scripts within the /models directory to see the ensemble implementations in action.
